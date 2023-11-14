@@ -1,3 +1,5 @@
+![screenshot](https://github.com/Kobeboy15/SP_Frontend_Exam/assets/23691843/a33c8d5d-51ab-4e7a-b11a-77a5459bd357)
+
 # SP Front-End Developer Test
 
 Using the provided HTML, CSS, and JavaScript files as a starting point, render
